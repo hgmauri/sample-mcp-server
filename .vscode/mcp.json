@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "logistica": {
+      "type": "stdio",
+      "command": "dotnet",
+      "args": ["run", "--project", "src/Logistica.McpServer"]
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "logistica": {
+      "command": "dotnet",
+      "args": ["run", "--project", "src/Logistica.McpServer"]
+    }
+  }
+}

@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Logistica.Cliente/Logistica.Cliente.csproj" />
+    <Project Path="src/Logistica.Dominio/Logistica.Dominio.csproj" />
+    <Project Path="src/Logistica.McpServer/Logistica.McpServer.csproj" />
+  </Folder>
+</Solution>
